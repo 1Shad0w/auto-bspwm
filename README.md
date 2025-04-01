@@ -39,12 +39,12 @@ chmod +x setup.sh
 
 
 ## Keyboard shortcuts
-- <kbd>Windows</kbd> + <kbd>Enter</kbd>: Open a terminal emulator window (kitty).
-- <kbd>Windows</kbd> + <kbd>W</kbd>: Close the current window.
-- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Restart the bspwm configuration.
-- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Log out.
+- <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abrir una ventana de emulador de terminal (kitty).
+- <kbd>Windows</kbd> + <kbd>W</kbd>: Cerrar la aplicación seleccionada.
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Recargar la configuración de bspwm.
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cerrar sesión.
 - <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navigate through windows in the current workspace.
-- <kbd>Windows</kbd> + <kbd>D</kbd>: Open Rofi. Press <kbd>Esc</kbd> to exit.
+- <kbd>Windows</kbd> + <kbd>D</kbd>: Abrir rofi. Presionar <kbd>Esc</kbd> para salir.
 - <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Switch to the respective workspace.
 - <kbd>Windows</kbd> + <kbd>T</kbd>: Change the current window to tile mode.
 - <kbd>Windows</kbd> + <kbd>M</kbd>: Toggle the current window to "full" mode (doesn't occupy the polybar). Press the same keys to return to tile mode.
